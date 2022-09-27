@@ -1,5 +1,9 @@
 # 🌔 I like Lua.
 
+## Aliases
+
+`appguru(eu|lars)?|LMD|luatic`
+
 <!--
 **appgurueu/appgurueu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
